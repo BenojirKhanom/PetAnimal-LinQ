@@ -1,0 +1,18 @@
+F:\Clothing_shop_linq\bin\Debug\Clothing_shop_linq.exe.config
+F:\Clothing_shop_linq\bin\Debug\Clothing_shop_linq.exe
+F:\Clothing_shop_linq\bin\Debug\Clothing_shop_linq.pdb
+F:\Clothing_shop_linq\obj\Debug\Pet_linq.csproj.CoreCompileInputs.cache
+F:\Clothing_shop_linq\obj\Debug\Clothing_shop_linq.exe
+F:\Clothing_shop_linq\obj\Debug\Clothing_shop_linq.pdb
+C:\Users\C#\Downloads\pet_linq\bin\Debug\Clothing_shop_linq.exe.config
+C:\Users\C#\Downloads\pet_linq\bin\Debug\Clothing_shop_linq.exe
+C:\Users\C#\Downloads\pet_linq\bin\Debug\Clothing_shop_linq.pdb
+C:\Users\C#\Downloads\pet_linq\obj\Debug\Pet_linq.csproj.CoreCompileInputs.cache
+C:\Users\C#\Downloads\pet_linq\obj\Debug\Clothing_shop_linq.exe
+C:\Users\C#\Downloads\pet_linq\obj\Debug\Clothing_shop_linq.pdb
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\bin\Debug\Clothing_shop_linq.exe.config
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\bin\Debug\Clothing_shop_linq.exe
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\bin\Debug\Clothing_shop_linq.pdb
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\obj\Debug\Pet_linq.csprojAssemblyReference.cache
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\obj\Debug\Clothing_shop_linq.exe
+F:\All Project\2nd M 1251678-Benojir Khanom\pet_linq\obj\Debug\Clothing_shop_linq.pdb
